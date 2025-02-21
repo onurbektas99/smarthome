@@ -1,16 +1,19 @@
-# smart_home
+Smart Home App
 
-A new Flutter project.
+This project is a simple Smart Home application developed using Flutter. It allows you to control various smart devices in your home, such as lights, AC, TV, and fan.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🏠 View a list of smart devices
+💡 Toggle devices on/off with a switch
+🔌 Device status and themes changes based on power (on/off)
+🎨 Customizable UI with icons for each device
 
-A few resources to get you started if this is your first Flutter project:
+📸 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/1.png)  
+![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/2.png)  
+![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/3.png)  
+![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/4.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
