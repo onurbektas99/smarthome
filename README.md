@@ -11,9 +11,9 @@ This project is a simple Smart Home application developed using Flutter. It allo
 
 📸 Screenshot
 
-![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/1.png)  
-![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/2.png)  
-![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/3.png)  
-![App Screenshot](https://github.com/onurbektas99/smarthome/tree/main/screenshoots/4.png)  
+![App Screenshot](https://raw.githubusercontent.com/onurbektas99/smarthome/main/screenshoots/1.png)
+![App Screenshot](https://raw.githubusercontent.com/onurbektas99/smarthome/main/screenshoots/2.png)
+![App Screenshot](https://raw.githubusercontent.com/onurbektas99/smarthome/main/screenshoots/3.png)
+![App Screenshot](https://raw.githubusercontent.com/onurbektas99/smarthome/main/screenshoots/4.png)
 
 
